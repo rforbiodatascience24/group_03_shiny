@@ -8,6 +8,10 @@ s225051: Emil August Dissing Berntsen\
 s224974: Rasmus Kamp\
 s215109: Rolf Larsen
 
+## Link:
+Link to the published shiny app:
+https://5cizzp-ida0sofie0goldschmidt.shinyapps.io/Virtual_Central_Dogma/
+
 ## Installation and use
 
 Install the app from this repository, and run the app from the virtual_central_dogma.R file. If necessary, install dependent packages.
